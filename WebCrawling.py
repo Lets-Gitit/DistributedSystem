@@ -10,7 +10,7 @@ wr = csv.writer(f)
 wr.writerow(['id', 'title'])
 id = 0
 
-for j in range(1,5) :
+for j in range(1, 2) :
     print(url)
     res = requests.get(url, headers=headers)
     res.raise_for_status()
