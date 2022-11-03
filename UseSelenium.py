@@ -3,16 +3,19 @@ from selenium.webdriver.common.by import By
 import csv 
 
 # 크롬 버전 106.0.5249.119
-driver = webdriver.Chrome('ChromeDriver\chromedriver.exe')
+options = webdriver.ChromeOptions()
+options.add_argument('--ignore-certificate-errors-spki-list')
+options.add_argument('--ignore-ssl-errors')
+driver = webdriver.Chrome('ChromeDriver\chromedriver.exe', chrome_options=options)
+
 url = 'https://www.wsj.com/search?query=fed&page=1'
 
-
-f = open('Titles11.csv', 'w', encoding='utf-8', newline='')
+f = open('Titles.csv', 'w', encoding='utf-8', newline='')
 wr = csv.writer(f)
 wr.writerow(['id', 'title'])
 id = 0
 
-for i in range(1, 10) :
+for i in range(1, 11) :
     print("now scraping :", url)
     driver.implicitly_wait(3)
     driver.get(url)
@@ -26,11 +29,5 @@ for i in range(1, 10) :
     
     url = url.replace(str(i), str(i + 1))
 
-# print(res)
 f.close()
 driver.close()
-
-# f = open('Titles10.csv', 'r', encoding='utf-8')
-# rdr = csv.reader(f)
-# for line in rdr:
-#     print(line)
