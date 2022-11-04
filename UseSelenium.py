@@ -10,12 +10,12 @@ driver = webdriver.Chrome('ChromeDriver\chromedriver.exe', chrome_options=option
 
 url = 'https://www.wsj.com/search?query=fed&page=1'
 
-f = open('Titles.csv', 'w', encoding='utf-8', newline='')
+f = open('Titles_All.csv', 'w', encoding='utf-8', newline='')
 wr = csv.writer(f)
 wr.writerow(['id', 'title'])
 id = 0
 
-for i in range(1, 11) :
+for i in range(1, 209) :
     print("now scraping :", url)
     driver.implicitly_wait(3)
     driver.get(url)
