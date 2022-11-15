@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import time
 
 url = "https://www.wsj.com/search?query=fed&page=1"
 headers = {"User-Agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"}
@@ -9,7 +10,7 @@ id = 0
 k = 1
 l = 10
 
-for j in range(1, 20) :
+for j in range(1, 2000) :
     print(url)
     res = requests.get(url, headers=headers)
     res.raise_for_status()
@@ -32,3 +33,4 @@ for j in range(1, 20) :
     k += 1
 
 f.close()
+
