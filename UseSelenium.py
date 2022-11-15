@@ -10,24 +10,29 @@ driver = webdriver.Chrome('ChromeDriver\chromedriver.exe', chrome_options=option
 
 url = 'https://www.wsj.com/search?query=fed&page=1'
 
-f = open('Titles_All.csv', 'w', encoding='utf-8', newline='')
-wr = csv.writer(f)
-wr.writerow(['id', 'title'])
+f = open('Titles_All_.txt', 'w', encoding='utf-8')
+# wr = csv.writer(f)
+# wr.writerow(['id', 'title'])
 id = 0
 
-for i in range(1, 209) :
+for i in range(1, 10) :
     print("now scraping :", url)
     driver.implicitly_wait(3)
     driver.get(url)
     res = driver.find_elements(By.CLASS_NAME, 'WSJTheme--headlineText--He1ANr9C')
 
     for j in range(len(res)) :
+        if res[j] == res[-1] :
+            break
         id += 1
         res[j] = res[j].text
         print(j, res[j])
-        wr.writerow([id, res[j]])
-    
+        f.write(res[j] + "\n")
+        # wr.writerow([id, res[j]])
+        
     url = url.replace(str(i), str(i + 1))
 
 f.close()
 driver.close()
+
+# <span class="WSJTheme--headlineText--He1ANr9C ">Consumers Expect Sticky Inflation: University of Michigan Survey</span>
