@@ -35,4 +35,3 @@ for i in range(1, 10) :
 f.close()
 driver.close()
 
-# <span class="WSJTheme--headlineText--He1ANr9C ">Consumers Expect Sticky Inflation: University of Michigan Survey</span>

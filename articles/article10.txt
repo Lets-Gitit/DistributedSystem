@@ -1,0 +1,12 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Vice President Kamala Harris today convened civil society leaders engaged in climate action and environmental activism in Northern Thailand and business leaders advancing Thailand’s clean energy transition. The Vice President reiterated the Biden-Harris Administration’s commitment to support a sustainable and clean energy future for Thailand and the broader Mekong sub-region. The Vice President also spoke to how the climate crisis is at the intersection of shared priorities between the United States and Thailand, including public health, sustainable livelihoods, and economic growth. </p>
+<p>During the roundtable discussion, participants addressed the importance of environmental protection and natural resource governance, youth empowerment and civic engagement, and the opportunities for economic development, entrepreneurship, and innovation in the clean energy future. The Vice President emphasized the power of coalition building and the importance of having all voices at the table in order to develop enduring solutions to the climate crisis. </p>
+<p>In connection with the roundtable, the Vice President announced new funding to support clean energy and sustainable economic development in the Mekong sub-region.</p>
+<p>The Vice President was joined by: • Robert Godec, U.S. Ambassador to Thailand<br/>• Lisa Buzenas, U.S. Consul General, Chiang Mai<br/>• Niwat Roykaew, Founder of Rak Chiang KhongConservation Group<br/>• Paul Sein Twa, Executive Director of the Karen Environmental and Social Action Network<br/>• Piyashat Sinpimonboon, International Program Director of the Makhampom Theatre Group<br/>• Chatrapon Sripratum, Vice President, Strategy Development and Investment Planning Department, Energy Absolute PCL <br/>• Atchara Poomee, Founder and CEO of PAC Corporation <br/>• Balaji M.K., Director of Advanced Energy Systems, USAID Southeast Asia Smart Power Program</p>
+<p class="has-text-align-center">###</p>
+<p class="has-text-align-center"></p>
+</div>
+</div>
+</section>]
