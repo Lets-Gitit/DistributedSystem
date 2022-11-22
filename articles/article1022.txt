@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Once again – as fundamental rights are at risk at the Supreme Court – Senate Republicans have blocked passage of the Women’s Health Protection Act, a bill that affirmatively protects access to reproductive health care. This failure to act comes at a time when women’s constitutional rights are under unprecedented attack – and it runs counter to the will of the majority of American people.<br/><br/>Republicans in Congress – not one of whom voted for this bill – have chosen to stand in the way of Americans’ rights to make the most personal decisions about their own bodies, families and lives.   <br/><br/>To protect the right to choose, voters need to elect more pro-choice senators this November, and return a pro-choice majority to the House. If they do, Congress can pass this bill in January, and put it on my desk, so I can sign it into law.<br/><br/>The protections that the Women’s Health Protection Act would ensure are essential to the health, safety, and progress of our nation.  While this legislation did not pass today, my Administration will not stop fighting to protect access to women’s reproductive care. We will continue to defend women’s constitutional rights to make private reproductive choices as recognized in <em>Roe v. Wade</em> nearly half a century ago, and my Administration will continue to explore the measures and tools at our disposal to do just that.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

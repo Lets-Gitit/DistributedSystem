@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Today, MAGA Congressional Republicans <a href="https://www.lankford.senate.gov/imo/media/doc/Lankford%20Lee%20Protect%20Drug%20Innovation%20Act.pdf">introduced legislation</a> that puts special interests before working families. Their new bill is a giveaway to big pharma at the expense of seniors by ending Medicare’s new ability to negotiate lower drug prices. Their vision for the country is extreme and out of touch with working families across the country.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

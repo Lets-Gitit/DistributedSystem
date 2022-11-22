@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Biden and Vice President Harris are announcing today that the application period for the Summer session of the White House Internship Program opened on Monday, November 1<sup>st</sup>. The session will begin in June 2023.  </p>
+<p>The White House Internship Program is a public service leadership and development program that provides emerging leaders with an opportunity to gain valuable skills while supporting the work of the White House and furthering the priorities of the Biden-Harris Administration. This program provides paid internships across the Executive Office of the President. Interns participating in the White House Internship Program will support the White House Office and the Office of the Vice President. </p>
+<p>Program participants must be U.S. citizens, at least 18 years or older before the first day of the Program, and meet at least one of the three following criteria:</p>
+<ol type="1"><li>Currently enrolled in an accredited undergraduate or graduate degree program at a college, community college, or university (two- to four-year institution)</li><li>Graduated from an accredited undergraduate or graduate program at a college, community college, or university (two- to four-year institution) no more than two years prior to the first day of the Program</li><li>A veteran of the United States Armed Forces who possesses a high school diploma or its equivalent and has served on active duty, for any length of time, no more than two years prior to the first day of the Program</li></ol>
+<p>The application period for the Summer 2023 session opened on Monday, November 1<sup>st</sup> and will close on Monday, November 28<sup>th</sup>.</p>
+<p>Interested candidates can find the Program’s online application at <a href="https://wh.gov/intern">WH.gov/intern</a>. The website also features additional information about the Program, including a “Frequently Asked Questions” section.  Prospective candidates with questions about the Program, as well as college/university administrators, faculty, campus leadership, and others interested in more information to share with their communities can reach out to the White House Internship Program team at <a href="mailto:internship@who.eop.gov">internship@who.eop.gov</a>.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

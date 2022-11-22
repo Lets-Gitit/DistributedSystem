@@ -1,0 +1,11 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Yesterday, the White House Office of Public Engagement, the White House Gender Policy Council, and the Office of the Vice President convened a meeting with young leaders on reproductive health and rights. Participants discussed the devastating consequences that overturning <em>Roe v Wade</em> would have on young people, who overwhelmingly support reproductive rights, which have been guaranteed under <em>Roe v. Wade </em>for nearly 50 years and are integral to equality and full opportunity.   Advocates highlighted the importance of mobilizing and organizing young people in support of reproductive freedom, including on college campuses.</p>
+<p>Senior Administration officials highlighted the President’s commitment to supporting reproductive health and rights and the Administration’s commitment to including young people in conversations on this critical issue and other key priorities.</p>
+<p>Participants included:</p>
+<ul><li>Advocates for Youth</li><li>Generation Progress</li><li>Generation Ratify</li><li>Gen Z For Change</li><li>Planned Parenthood</li><li>Unite for Reproductive &amp; Gender Equity (URGE)</li></ul>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

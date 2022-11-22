@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. today announced the designation of a Presidential Delegation to attend the Inauguration of His Excellency João Manuel Gonçalves Lourenço on September 15, 2022, in Luanda, Angola.<br/> <br/>The Honorable Scott Nathan, Chief Executive Officer of the U.S. International Development Finance Corporation, will lead the delegation.<br/> <br/><span style="text-decoration: underline"><strong>Members of the Presidential Delegation:</strong><br/></span> <br/>The Honorable Tulinabo S. Mushingi, U.S. Ambassador to the Republic of Angola<br/> <br/>Ambassador Andrew Robert Young, Deputy to the Commander for Civil-Military Engagement, U.S. Africa Command.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

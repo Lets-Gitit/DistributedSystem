@@ -1,0 +1,10 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Dear Madam Speaker: (Dear Madam President:)</p>
+<p>In accordance with 50 U.S.C. 3043, I transmit herewith the 2022 National Security Strategy.</p>
+<p class="has-text-align-right">                               Sincerely,</p>
+<p class="has-text-align-right">                               JOSEPH R. BIDEN JR.</p>
+</div>
+</div>
+</section>]

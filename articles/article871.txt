@@ -1,0 +1,17 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Chrissie C. Latimore, of South Carolina, to be United States Marshal for the District of South Carolina for the term of four years, vice Thomas M. Griffin, Jr., resigned.</p>
+<p>     Kirk M. Taylor, of Colorado, to be United States Marshal for the District of Colorado for the term of four years, vice David A. Weaver, term expired.</p>
+<p>     Adair Ford Boroughs, of South Carolina, to be United States Attorney for the District of South Carolina for the term of four years, vice Peter M. McCoy, Jr., resigned.</p>
+<p>     Natalie K. Wight, of Oregon, to be United States Attorney for the District of Oregon for the term of four years, vice Billy J. Williams, resigned.</p>
+<p>     E. Martin Estrada, of California, to be United States Attorney for the Central District of California for the term of four years, vice Nicola T. Hanna, resigned.</p>
+<p>     Sopen B. Shah, of Wisconsin, to be United States Attorney for the Western District of Wisconsin for the term of four years, vice Scott C. Blader, resigned.</p>
+<p>     Gregory J. Haanstad, of Wisconsin, to be United States Attorney for the Eastern District of Wisconsin for the term of four years, vice Matthew D. Krueger, resigned.</p>
+<p>WITHDRAWAL SENT TO THE SENATE:</p>
+<p>     Michael M. Contrades, of Hawaii, to be United States Marshal for the District of Hawaii for the term of four years, vice Charles L. Goodwin, retired, which was sent to the Senate on May 5, 2022.</p>
+<p class="has-text-align-center"># # #</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>This is yet another example of an extreme and radical Republican elected official. It is unthinkable that this public official would sue to block women from receiving life-saving care in emergency rooms, a right protected under U.S. law.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

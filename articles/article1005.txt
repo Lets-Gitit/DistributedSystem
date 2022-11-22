@@ -1,0 +1,16 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Claria Horn Boom, of Kentucky, to be a Member of the United States Sentencing Commission for a term expiring October 31, 2023, vice William H. Pryor Jr., term expired.</p>
+<p>     John Gleeson, of New York, to be a Member of the United States Sentencing Commission for a term expiring October 31, 2023, vice Rachel Elise Barkow, term expired.</p>
+<p>     Laura E. Mate, of Iowa, to be a Member of the United States Sentencing Commission for a term expiring October 31, 2027, vice Charles R. Breyer, term expired.</p>
+<p>     Claire McCusker Murray, of Maryland, to be a Member of the United States Sentencing Commission for a term expiring October 31, 2025, vice Danny C. Reeves, term expired.</p>
+<p>     Carlton W. Reeves, of Mississippi, to be Chair of the United States Sentencing Commission, vice Patti B. Saris.</p>
+<p>     Carlton W. Reeves, of Mississippi, to be a Member of the United States Sentencing Commission for a term expiring October 31, 2027, vice Patti B. Saris, term expired.</p>
+<p>     Luis Felipe Restrepo, of Pennsylvania, to be a Member of the United States Sentencing Commission for a term expiring October 31, 2025, vice Ketanji Brown Jackson, term expired.</p>
+<p>     Candice C. Wong, of the District of Columbia, to be a Member of the United States Sentencing Commission for a term expiring October 31, 2027, vice Dabney Langhorne Friedrich, term expired.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

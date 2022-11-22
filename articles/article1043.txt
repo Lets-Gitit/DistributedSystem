@@ -1,0 +1,11 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>      Donald R. Cravins, of Maryland, to be Under Secretary of Commerce for Minority Business Development.  (New Position)</p>
+<p>     Rebecca Lee Haffajee, of Massachusetts, to be an Assistant Secretary of Health and Human Services, vice Richard G. Frank.</p>
+<p>     David P. Pekoske, of Maryland, to be Administrator of the Transportation Security Administration for a term of five years.  (New Position)</p>
+<p>     Hugo F. Rodriguez, Jr., of Pennsylvania, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Nicaragua.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,9 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>National Security Advisor Jake Sullivan spoke by phone today with counterparts from our Baltic Allies to discuss European security in light of Russia’s war in Ukraine.  Mr. Sullivan underscored the ironclad U.S. commitment to NATO’s Article 5. Participants discussed joint efforts to strengthen our collective defense and security, as well as preparations for the June 29-30 NATO Summit in Madrid. </p>
+<p>Participants in today’s call included Kęstutis Budrys, Chief Security Advisor to the Lithuanian President; Asta Skaisgirytė, Chief Foreign Affairs Advisor to the Lithuanian President; Māris Cepurītis, National Security Advisor to the Latvian Prime Minister; Jānis Kažociņš, National Security Advisor to the Latvian President; and Indrek Sirp, Director for National Security and Defense for the Estonian Prime Minister.  </p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

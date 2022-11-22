@@ -1,0 +1,15 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>     Angela Price Aggeler, of the District of Columbia, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of North Macedonia.</p>
+<p>     Marie C. Damour, of Virginia, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Fiji, and to serve concurrently and without additional compensation as Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Kiribati, the Republic of Nauru, the Kingdom of Tonga, and Tuvalu.</p>
+<p>     Rosemarie Hidalgo, of the District of Columbia, to be Director of the Violence Against Women Office, Department of Justice, vice Susan B. Carbon.</p>
+<p>     Mark W. Libby, of Massachusetts, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Azerbaijan.</p>
+<p>     Sue Ellen Moore, of Washington, to be a Member of the Marine Mammal Commission for a term expiring May 13, 2023, vice Michael F. Tillman, term expired.</p>
+<p>     Gautam A. Rana, of New Jersey, a Career Member of the Senior Foreign Service, Class of Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Slovak Republic.</p>
+<p>     Andrew J. Read, of North Carolina, to be a Member of the Marine Mammal Commission for a term expiring May 13, 2025, vice Daryl J. Boness, term expired.</p>
+<p>     Laura Taylor-Kale, of California, to be an Assistant Secretary of Defense.  (New Position)</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

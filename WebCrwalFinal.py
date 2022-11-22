@@ -11,8 +11,8 @@ options.add_argument('--ignore-certificate-errors-spki-list')
 options.add_argument('--ignore-ssl-errors')
 driver = webdriver.Chrome('ChromeDriver\chromedriver.exe', chrome_options=options)
 
-id = 1
-page = 1
+id = 1121
+page = 113
 
 for i in range(300) :
     url = "https://www.whitehouse.gov/briefing-room/statements-releases/page/" + str(page) + "/"
@@ -29,7 +29,7 @@ for i in range(300) :
         article = soup.find_all("section", class_ = "body-content")
         article = str(article)
 
-        txtname = "./articles/article" + str(id) +".txt"
+        txtname = "./articles2/article" + str(id) +".txt"
         f = open(txtname, 'w', encoding='utf-8')
         f.write(article)
         print("now writing articles to " + txtname)
@@ -38,6 +38,7 @@ for i in range(300) :
         driver.back()
 
     page += 1
+    print()
     
 
 

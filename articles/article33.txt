@@ -1,0 +1,12 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Dear Mr. Chairman:  (Dear Madam Chair:)</p>
+<p>In accordance with section 1264(b) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115-91), as amended, 50 U.S.C. 1549(b), I am transmitting notice of changes to the legal and policy frameworks for the United States’ use of military force and related national security operations. </p>
+<p>I am enclosing a copy of the unclassified notice and its classified annex, which includes the Presidential Policy Memorandum outlining the changes.</p>
+<p class="has-text-align-right">                               Sincerely,</p>
+<p class="has-text-align-right">                               JOSEPH R. BIDEN JR.</p>
+<p>View the unclassified report <a href="https://www.whitehouse.gov/wp-content/uploads/2022/11/1264-Report-Nov-15-2022-unclass-notification.pdf">here</a>.</p>
+</div>
+</div>
+</section>]

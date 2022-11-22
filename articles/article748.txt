@@ -1,0 +1,11 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>On Tuesday, June 21, officials from the White House Gender Policy Council and National Security Council convened a meeting with leaders and experts on global reproductive rights. Participants discussed how a ruling in <em>Dobbs v. Jackson Women’s Health Organization</em> might impact access to sexual and reproductive health and rights around the world, and offered recommendations to the Administration to protect and advance women’s health globally.   </p>
+<p>White House officials thanked the leaders for their efforts and underscored the Administration’s commitment to support sexual and reproductive health and rights across the globe.</p>
+<p>Participants included:</p>
+<ul><li>Amnesty International</li><li>Center for Reproductive Rights</li><li>EngenderHealth</li><li>Ibis Reproductive Health</li><li>Ipas</li><li>PAI</li><li>Women Deliver</li></ul>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

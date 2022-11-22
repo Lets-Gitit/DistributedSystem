@@ -1,0 +1,18 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joe Biden and First Lady Jill Biden are excited to continue the tradition of welcoming volunteer decorators, performers, and greeters to help celebrate the holiday season at the White House. Starting today, applications are now open for those interested in volunteering. </p>
+<p>The White House welcomes submissions from all U.S. states and territories, and encourages military family members, educators, frontline workers, and students to apply. All volunteer applications will close on <strong>Wednesday, October 19<sup>th</sup>, 2022 </strong><strong>at 5:00 P.M. ET</strong> and applicants will be notified by <strong>on or after Monday, October 31, 2022 at 5:00 P.M. ET.</strong></p>
+<p><strong>VOLUNTEER DECORATOR APPLICATION</strong></p>
+<p>Those interested in volunteering to decorate the White House ahead of the holiday season, you may apply <a href="https://events.whitehouse.gov/EventInterestHolidayVol?rid=CXGXKMRTCR">HERE</a>. Please note each person must apply individually as no group applications will be accepted. Volunteers must be available to be in Washington, D.C. the week of November 21st.</p>
+<p><strong>VOLUNTEER ENTERTAINMENT APPLICATION</strong></p>
+<p>Performers and musical groups, including school bands, choirs, and Holiday-themed entertainers, you may apply <a href="https://events.whitehouse.gov/EventInterestHolidayVol?rid=KJVVRWPDJC">HERE</a> for the opportunity to perform during a Holiday Open House Tour. Performers must be available to be in Washington, D.C. during the window of November 29th to December 23rd.</p>
+<p><strong>HOLIDAY OPEN HOUSE VOLUNTEER APPLICATION </strong></p>
+<p>Those interested in volunteering to welcome tour guests at a White House Holiday Open House, you may apply <a href="https://46eop.force.com/Surveys/survey/runtimeApp.app?invitationId=0Kit0000001FIRZ&amp;surveyName=X2022_white_house_holiday_open_house_volunteer_form&amp;UUID=fc131a9f-c1be-4edc-ba71-ea01964582dd">HERE</a>. Volunteers must be available to be in Washington, D.C. during the window of November 29th to December 23rd.</p>
+<p><strong><em>COVID-19 GUIDANCE</em></strong></p>
+<p><em>The White House will continue to closely monitor the COVID-19 situation based on recommendations from the CDC and other public health officials and medical experts in order to maintain a safe, healthy environment for all volunteers and entertainers for this year’s holiday season. Furthermore, the White House reserves the right to adjust its availability as necessary to adhere to the latest health guidance.</em></p>
+<p><em>For any questions regarding application or process, please reach out to <a href="mailto:Volunteers@who.eop.gov">Volunteers@who.eop.gov</a>.</em></p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

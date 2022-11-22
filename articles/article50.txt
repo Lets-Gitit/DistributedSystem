@@ -1,0 +1,15 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>     Jaime E. Esparza, of Texas, to be United States Attorney for the Western District of Texas for the term of four years, vice John F. Bash, resigned.</p>
+<p>     Alamdar S. Hamdani, of Texas, to be United States Attorney for the Southern District of Texas for the term of four years, vice Ryan K. Patrick, resigned.</p>
+<p>     Peter D. Leary, of Georgia, to be United States Attorney for the Middle District of Georgia for the term of four years, vice Charles E. Peeler, resigned.</p>
+<p>     Leigha Simonton, of Texas, to be United States Attorney for the Northern District of Texas for the term of four years, vice Erin Angela Nealy Cox, resigned.</p>
+<p>     Jill E. Steinberg, of Georgia, to be United States Attorney for the Southern District of Georgia for the term of four years, vice Bobby L. Christine, resigned.</p>
+<p>     Martin J. Gruenberg, of Maryland, to be a Member of the Board of Directors of the Federal Deposit Insurance Corporation for a term of six years.  (Reappointment)</p>
+<p>     Martin J. Gruenberg, of Maryland, to be Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation for a term of five years, vice Jelena McWilliams, resigned.</p>
+<p>     Daniel I. Werfel, of the District of Columbia, to be Commissioner of Internal Revenue for the term expiring November 12, 2027, vice Charles P. Rettig, term expired.</p>
+<p class="has-text-align-center"># # #</p>
+</div>
+</div>
+</section>]

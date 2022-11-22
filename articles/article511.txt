@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>We are saddened by the tragic loss of life after the lightning strike in Lafayette Park. Our hearts are with the families who lost loved ones, and we are praying for those still fighting for their lives.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

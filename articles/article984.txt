@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. today announced the designation of a Presidential Delegation to the Democratic Republic of Timor-Leste to attend the Inauguration of His Excellency José Ramos-Horta on May 19, 2022 and to attend ceremonies commemorating the Twentieth Anniversary of the Restoration of Independence on May 20, 2022 in Dili.</p>
+<p><a></a><a></a>The Honorable Alice P. Albright, Chief Executive Officer of the Millennium Challenge Corporation, will lead the delegation.</p>
+<p><strong><u>Members of the Presidential Delegation:</u></strong></p>
+<p>Mr. Thomas Daley, Charge d’ Affaires a.i., U.S. Embassy Timor-Leste</p>
+<p>The Honorable Paloma Adams-Allen, Deputy Administrator, United States Agency for International Development</p>
+<p>The Honorable Curtis Ried, Special Assistant to the President and Senior Director for Multilateral Affairs, National Security Council</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. spoke today with President-elect Ferdinand Marcos Jr. of the Philippines to congratulate him on his election. President Biden underscored that he looks forward to working with the President-elect to continue strengthening the U.S.-Philippine Alliance, while expanding bilateral cooperation on a wide range of issues, including the fight against COVID-19, addressing the climate crisis, promoting broad-based economic growth, and respect for human rights.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

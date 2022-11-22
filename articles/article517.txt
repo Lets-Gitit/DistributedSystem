@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>To view the letter from the Physician to the President, visit: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/08/Update-8.4.pdf" rel="noreferrer noopener" target="_blank">https://www.whitehouse.gov/wp-content/uploads/2022/08/Update-8.4.pdf</a></p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

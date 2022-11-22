@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. today announced the designation of a Presidential Delegation to San José, Costa Rica to attend the Inauguration of His Excellency Rodrigo Alberto de Jesús Chaves Robles as President of the Republic of Costa Rica on May 8, 2022.</p>
+<p>The Honorable Miguel Cardona, United States Secretary of Education, will lead the delegation.</p>
+<p><strong><u>Members of the Presidential Delegation:</u></strong></p>
+<p>The Honorable Cynthia Telles, United States Ambassador to the Republic of Costa Rica</p>
+<p>The Honorable Uzra Zeya, Under Secretary for Civilian Security, Democracy, and Human Rights, U.S. Department of State</p>
+<p>The Honorable Cristóbal Alex, Special Assistant to the President and White House Deputy Cabinet Secretary</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

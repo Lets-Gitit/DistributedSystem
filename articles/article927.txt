@@ -1,0 +1,12 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Richard Glick, of Virginia, to be a Member of the Federal Energy Regulatory Commission for a term expiring June 30, 2027.   (Reappointment)</p>
+<p>     Jonathan Henick, of Virginia, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Uzbekistan.</p>
+<p>     Joey R. Hood, of New Hampshire, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Tunisia.</p>
+<p>     Amy Lefkowitz Solomon, of the District of Columbia, to be an Assistant Attorney General, vice Karol Virginia Mason.</p>
+<p class="has-text-align-center"># # #</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,12 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>     Cindy K. Chung, of Pennsylvania, to be United States Circuit Judge for the Third Circuit, vice D. Brooks Smith, retired.</p>
+<p>     Kelley Brisbon Hodge, of Pennsylvania, to be United States District Judge for the Eastern District of Pennsylvania, vice Petrese B. Tucker, retired.</p>
+<p>     Kai N. Scott, of Pennsylvania, to be United States District Judge for the Eastern District of Pennsylvania, vice C. Darnell Jones II, retired.</p>
+<p>     Mia Roberts Perez, of Pennsylvania, to be United States District Judge for the Eastern District of Pennsylvania, vice Timothy J. Savage, retired.</p>
+<p>     John Frank Murphy, of Pennsylvania, to be United States District Judge for the Eastern District of Pennsylvania, vice Lawrence F. Stengel, retired.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

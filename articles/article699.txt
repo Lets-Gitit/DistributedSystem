@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Director Jim Murray has led a long and distinguished career in federal and military service for three decades, including the last three years as Director of the United States Secret Service. Jim embodies the meaning of service over self, and protected the families of U.S. Presidents like they were part of his own. We are incredibly grateful for his service to our country and our family.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

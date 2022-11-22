@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Almo J. Carter, of the District of Columbia, to be a Commissioner of the United States Parole Commission for a term of six years, vice J. Patricia Wilson Smoot, term expired.</p>
+<p>     Jessica Looman, of Minnesota, to be Administrator of the Wage and Hour Division, Department of Labor, vice Cheryl Marie Stanton.</p>
+<p>     Richard Mills, Jr., of Georgia, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Federal Republic of Nigeria.</p>
+<p>     Joe H. Ritch, of Alabama, to be a Member of the Board of Directors of the Tennessee Valley Authority for a term expiring May 18, 2025, vice Richard Capel Howorth, term expired.</p>
+<p>     Hugo Yue-Ho Yon, of California, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Maldives.<br/></p>
+<p class="has-text-align-center"># # #</p>
+</div>
+</div>
+</section>]

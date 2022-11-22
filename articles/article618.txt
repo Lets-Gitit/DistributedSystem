@@ -1,0 +1,9 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>   L. Felice Gorordo, of Florida, to be United States Alternate Executive Director of the International Bank for Reconstruction and Development for a term of two years, vice Erik Bethel, resigned.</p>
+<p class="has-text-align-left">     Kimberly Ann McClain, of Maryland, to be an Assistant Secretary of Housing and Urban Development, vice Leonard Wolfson.</p>
+<p class="has-text-align-center"><br/># # #</p>
+</div>
+</div>
+</section>]

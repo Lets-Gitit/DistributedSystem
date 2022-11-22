@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>TO THE CONGRESS OF THE UNITED STATES:</p>
+<p>     Pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 <em>et seq</em>.), I hereby report that I have issued an Executive Order declaring a national emergency with respect to hostage-taking and the wrongful detention of United States nationals.</p>
+<p>     Hostage-taking and the wrongful detention of United States nationals are heinous acts that undermine the rule of law.  Terrorist organizations, criminal groups, and other malicious actors who take hostages for financial, political, or other gain — as well as foreign states that engage in the practice of wrongful detention, including for political leverage or to seek concessions from the United States — threaten the integrity of the international political system and the safety of United States nationals and other persons abroad.  I have determined that hostage-taking and the wrongful detention of United States nationals abroad constitute an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States.</p>
+<p>     I am enclosing a copy of the Executive Order I have issued.</p>
+<p class="has-text-align-right">                               JOSEPH R. BIDEN JR.</p>
+<p class="has-text-align-right">THE WHITE HOUSE,</p>
+<p class="has-text-align-right">    July 19, 2022.</p>
+</div>
+</div>
+</section>]

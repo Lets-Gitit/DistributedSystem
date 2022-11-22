@@ -1,0 +1,11 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Today, White House Gender Policy Council Director Jennifer Klein and White House Deputy Assistant to the President for Racial Justice and Equity Chiraag Bains convened a meeting with national LGBTQI+ leaders on protecting access to reproductive health care and protecting LGBTQI+ civil rights. Advocates discussed the importance of protecting access to abortion for the LGBTQI+ community, and the need to protect critical and foundational LGBTQI+ civil rights, including marriage equality. Participants also highlighted the importance of the right to reproductive decision-making and privacy, and the importance of reproductive health care for LGBTQI+ people as they start families, and cited fears about the challenges LGBTQI+ families are facing as states pass extreme laws restricting access to critical health care, including reproductive health care and gender-affirming care.</p>
+<p>Senior Administration officials highlighted the President’s unwavering commitment to LGBTQI+ civil rights, reproductive rights, and safeguarding LGBTQI+ couples and families.</p>
+<p>Participants included representatives from:</p>
+<ul><li>Equality Federation</li><li>Family Equality</li><li>Lambda Legal</li><li>Freedom for All Americans</li><li>Human Rights Campaign</li><li>National LGBTQ Task Force</li><li>National Center for Lesbian Rights</li><li>National Center for Transgender Equality</li><li>National Women’s Law Center</li></ul>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

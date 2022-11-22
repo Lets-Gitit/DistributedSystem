@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Yesterday, Erika Moritsugu, Deputy Assistant to the President and Senior Asian American, Native Hawaiian, and Pacific Islander (AA and NHPI) Liaison, the White House Office of Public Engagement, the White House Gender Policy Council, and the Office of the Vice President convened a meeting with AA and NHPI leaders on reproductive health and rights. Participants discussed the devastating consequences that overturning <em>Roe v. Wade</em> would have on AA and NHPI communities, who overwhelmingly support reproductive rights, which have been guaranteed under <em>Roe v. Wade</em> for nearly 50 years and are integral to equality, opportunity, and self-determination.<br/><br/>Advocates highlighted the importance of using an intersectional approach anchored on ensuring accessibility, language access, and cultural competency; all crucial in reproductive freedom.   </p>
+<p>Senior Administration officials highlighted the President and Vice President’s commitment to supporting reproductive health and rights and the Administration’s commitment to including the diverse AA and NHPI communities in conversations on this critical issue and other key priorities.<br/><br/>Participants included representatives from:<br/><br/>National Asian Pacific American Women’s Forum (NAPAWF) <br/>Asian Americans Advancing Justice – AAJC <br/>Empowering Pacific Islander Communities (EPIC)<br/>RISE<br/>Asian Pacific Institute for Gender Based Violence (API-GBV)<br/>Asian &amp; Pacific Islander American Health Forum (APIAHF)<br/>National Association of Asian Pacific Community Health Organizations (AAPCHO)</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,11 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Roger B. Handberg, of Florida, to be United States Attorney for the Middle District of Florida for the term of four years, vice Maria Chapa Lopez, resigned.</p>
+<p>     Markenzy Lapointe, of Florida, to be United States Attorney for the Southern District of Florida for the term of four years, vice Ariana Fajardo Orshan, resigned.</p>
+<p>     McLain J. Schneider, of North Dakota, to be United States Attorney for the District of North Dakota for the term of four years, vice Drew H. Wrigley, resigned.</p>
+<p class="has-text-align-center"># # #</p>
+</div>
+</div>
+</section>]

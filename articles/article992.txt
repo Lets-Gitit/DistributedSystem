@@ -1,0 +1,18 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. today announced the designation of a Presidential Delegation to Abu Dhabi, United Arab Emirates, to pay respects upon the death of His Highness Sheikh Khalifa bin Zayed Al Nahyan, President of the United Arab Emirates, on May 16, 2022.  </p>
+<p>The Honorable Kamala Harris, Vice President of the United States of America, will lead the delegation.</p>
+<p><strong>Members of the Presidential Delegation:</strong></p>
+<p>Mr. Sean Murphy, Chargé d’Affaires ad interim, U.S. Embassy Abu Dhabi</p>
+<p>The Honorable Antony J. Blinken, Secretary of State of the United States</p>
+<p>The Honorable Lloyd J. Austin III, Secretary of Defense of the United States</p>
+<p>The Honorable John F. Kerry, Special Presidential Envoy for Climate</p>
+<p>The Honorable Philip Gordon, Assistant to the President and National Security Advisor to the Vice President</p>
+<p>The Honorable William Burns, Director of the Central Intelligence Agency</p>
+<p>The Honorable Brett McGurk, Deputy Assistant to the President and Coordinator for the Middle East and North Africa, National Security Council</p>
+<p>The Honorable Barbara Leaf, Special Assistant to the President and Senior Director for the Middle East and North Africa, National Security Council</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

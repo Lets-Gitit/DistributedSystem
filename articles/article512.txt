@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Today, the unemployment rate matches the lowest it’s been in more than 50 years: 3.5%. More people are working than at any point in American history. That’s millions of families with the dignity and peace of mind that a paycheck provides. And, it’s the result of my economic plan to build the economy from the bottom up and middle out. I ran for president to rebuild the middle class – there’s more work to do, but today’s jobs report shows we are making significant progress for working families.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,20 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Maria Araujo Kahn, of Connecticut, to be United States Circuit Judge for the Second Circuit, vice Jose A. Cabranes, retiring.</p>
+<p>     Julie Rikelman, of Massachusetts, to be United States Circuit Judge for the First Circuit, vice Sandra L. Lynch, retiring.</p>
+<p>     Myong J. Joun, of Massachusetts, to be United States District Judge for the District of Massachusetts, vice George A. O’Toole, Jr., retired.</p>
+<p>     Julia E. Kobick, of Massachusetts, to be United States District Judge for the District of Massachusetts, vice William G. Young, retired.</p>
+<p>     Jeffery Paul Hopkins, of Ohio, to be United States District Judge for the Southern District of Ohio, vice Timothy S. Black, retired.</p>
+<p>     Araceli Martínez-Olguín, of California, to be United States District Judge for the Northern District of California, vice Jeffrey S. White, retired.</p>
+<p>     Rita F. Lin, of California, to be United States District Judge for the Northern District of California, vice Edward Milton Chen, retired.</p>
+<p>     Daniel J. Calabretta, of California, to be United States District Judge for the Eastern District of California, vice John A. Mendez, retired.</p>
+<p>     Casey T. Arrowood, of Tennessee, to be United States Attorney for the Eastern District of Tennessee for the term of four years, vice J. Douglas Overbey, resigned.</p>
+<p>     Henry C. Leventis, of Tennessee, to be United States Attorney for the Middle District of Tennessee for the term of four years, vice Donald Q. Cochran, Jr., resigned.</p>
+<p>     Kevin G. Ritz, of Tennessee, to be United States Attorney for the Western District of Tennessee for the term of four years, vice D. Michael Dunavant, resigned.</p>
+<p>     William R. Hart, of New Hampshire, to be United States Marshal for the District of New Hampshire for the term of four years, vice Nick Willard, term expiring.</p>
+<p class="has-text-align-center"># # #</p>
+</div>
+</div>
+</section>]

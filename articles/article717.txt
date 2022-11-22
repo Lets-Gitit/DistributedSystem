@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Since 1995, the White House has been required to deliver a report to Congress listing the title and salary of every White House Office employee. Consistent with President Biden’s commitment to transparency, this report is being publicly disclosed on our website as it is transmitted to Congress.</p>
+<p><a href="https://www.whitehouse.gov/wp-content/uploads/2022/07/July-1-2022-Report-Final.pdf" rel="noreferrer noopener" target="_blank">2022 Annual Report to Congress on White House Staff</a></p>
+</div>
+</div>
+</section>]

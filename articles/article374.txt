@@ -1,0 +1,15 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Jennifer M. Adams, of Virginia, a Career Member of the Senior Foreign Service, Class of Career Minister, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Cabo Verde.</p>
+<p>     Danté Quintin Allen, of California, to be Commissioner of the Rehabilitation Services Administration, Department of Education, vice Mark Schultz.</p>
+<p>     Richard L. Revesz, of New York, to be Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget, vice Paul J. Ray.</p>
+<p>     Gene Rodrigues, of California, to be an Assistant Secretary of Energy (Electricity Delivery and Energy Reliability), vice Bruce J. Walker.</p>
+<p>     Joel Matthew Szabat, of Maryland, to be a Director of the Amtrak Board of Directors for a term of five years, vice Derek Tai-Ching Kan, resigned.</p>
+<p>     Robert G. Taub, of New York, to be a Commissioner of the Postal Regulatory Commission for a term expiring October 14, 2028. (Reappointment)</p>
+<p>     Nicole D. Theriot, of Louisiana, a Career Member of the Senior Foreign Service, Class of Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Co-operative Republic of Guyana.</p>
+<p class="has-text-align-center"># # #</p>
+</div>
+</div>
+</section>]

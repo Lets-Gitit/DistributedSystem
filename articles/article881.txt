@@ -1,0 +1,11 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>MEMORANDUM FOR THE SECRETARY OF DEFENSE</p>
+<p>SUBJECT:       Delegation of Authority Under Sections 1209 and 1236 of the National Defense Authorization Act for Fiscal Year 2015, as Amended</p>
+<p>By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of Defense the authority and functions vested in the President by sections 1209(l)(3) and 1236(o) of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113-291, 128 Stat. 3292), as amended, to waive certain limitations on the cost of construction and repair projects in support of the Counter-ISIS campaign in Iraq and Syria, including making any determinations and submitting any congressional notifications required for such waivers.</p>
+<p>You are authorized and directed to publish this memorandum in the <em>Federal Register</em>.</p>
+<p class="has-text-align-right">                               JOSEPH R. BIDEN JR.</p>
+</div>
+</div>
+</section>]

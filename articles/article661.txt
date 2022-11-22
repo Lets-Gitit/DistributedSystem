@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>     Margaret R. Guzman, of Massachusetts, to be United States District Judge for the District of Massachusetts, vice Timothy S. Hillman, retired.</p>
+<p>     Kymberly Kathryn Evanson, of Washington, to be United States District Judge for the Western District of Washington, vice Ricardo S. Martinez, retiring.</p>
+<p>     Jamal N. Whitehead, of Washington, to be United States District Judge for the Western District of Washington, vice Richard A. Jones, retiring.</p>
+<p>     Robert Stewart Ballou, of Virginia, to be United States District Judge for the Western District of Virginia, vice James P. Jones, retired.</p>
+<p>     Jamar K. Walker, of Virginia, to be United States District Judge for the Eastern District of Virginia, vice Raymond A. Jackson, retired.</p>
+<p>     Jorge A. Rodriguez, of New York, to be United States District Judge for the Northern District of New York, vice David M. Hurd, retiring.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,60 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p></p>
+<p class="has-text-align-center"><em>Funding Provides Regional Investments to Transform Local Economies, </em><em>Create Good-Paying Jobs, Jumpstart Emerging Industries, and Prepare Workforce for the Future </em><em></em></p>
+<p><strong>WASHINGTON</strong> – Today, President Biden will announce the 21 winners of the $1 billion <a href="https://eda.gov/arpa/build-back-better/">Build Back Better Regional Challenge</a>, the most impactful regional economic development competition in decades. Funded by President Biden’s American Rescue Plan and administered by the U.S. Commerce Department’s Economic Development Administration (EDA), the Regional Challenge provides each award winner funding to rebuild regional economies, promote inclusive and equitable recovery, and create thousands of good-paying jobs in industries of the future such as clean energy, next-generation manufacturing, and biotechnology.</p>
+<p>Awardees span 24 states and will receive between $25 million and $65 millionto execute transformational projects and revitalize local industries. Projects include developing workforce training programs and connecting workers to jobs; providing support to family-owned manufacturers to transition from traditional automotives to electric vehicles; establishing a digital finance sector to support small businesses in Tribal communities; providing digital resources to small farms; renovating and repurposing industrial buildings for new businesses; rebuilding pharmaceutical supply chains in the U.S. to lower drug costs; building advanced manufacturing centers for testing and training; deploying solar energy on former coal land; and more. Additionally, private sector companies and local organizations are investing an additional $300 million in these local projects.</p>
+<p>“Since day one, President Biden has been laser-focused on ensuring that economic opportunity is delivered to all Americans, especially communities that have grappled with decades of disinvestment or suffered economic distress exacerbated by the coronavirus pandemic,” said U.S. Secretary of Commerce Gina Raimondo. “As we invest and grow critical industries in the U.S., we want to create industry hubs in diverse communities across the country. These grants will provide critical and historic funding directly to community coalitions to invest in new infrastructure, research and development, and workforce development programs while creating good-paying jobs, supporting workers, and prioritizing equity.”</p>
+<p>Equity was a key consideration for project finalists, with a focus on rural, Tribal, and coal communities, as well as communities facing high and persistent poverty. Funding awards include $87 million to two primarily Tribal coalitions and, as part of EDA’s $300 million <a href="https://eda.gov/arpa/coal-communities/">Coal Community Commitment</a>, over $150 million for projects serving energy communities impacted by the declining use of fossil fuels. These grants will support 236 rural counties, 136 persistent poverty counties, and 121 counties that include Tribal areas.</p>
+<p>Project winners brought together employers, labor unions and worker organizations, state and local governments, institutions of higher education, and community-based organizations for their applications and will work together on implementing projects. With this funding, projects will create jobs directly in their community that offer supporting wages and career stability. Over $270 million of the funding will be allocated to develop workforce training and development programs and place workers in jobs.</p>
+<p>“EDA is proud to ignite the bold visions of these 21 regional coalitions to craft ambitious and regionally driven plans to rebuild their communities,” said Alejandra Y. Castillo, Assistant Secretary of Commerce for Economic Development. “EDA asked communities directly what they needed to attract industry and workers to their region, and these grants are a direct response to their needs. Not only will the projects offer clear pathways to good jobs and competitive wages, but they will ensure that economic-based prosperity reaches all pockets of this country.”</p>
+<p>The Build Back Better Regional Challenge winners:</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Central-Valley-Community-Foundation.htm">Central Valley Community Foundation</a> (California)</p>
+<p>$65.1 million for the F3 – Fresno-Merced Future of Food</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/City-of-Manchester.htm">City of Manchester</a> (New Hampshire)</p>
+<p>$44 million for The BioFabrication Cluster</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Coalfield-Development.htm">Coalfield Development</a> (West Virginia)</p>
+<p>$62.8 million for the Appalachian Climate Technologies (ACT Now) Initiative        </p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Detroit-Regional-Partnership-Foundation.htm">Detroit Regional Partnership Foundation</a> (Michigan)</p>
+<p>$52.2 million for the Global Epicenter of Mobility</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Empire-State-Development-Corporation.htm">Empire State Development</a> (New York)</p>
+<p>$25 million for the Western New York’s Advanced Manufacturing Cluster</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Four-Bands-Community-Fund.htm">Four Bands Community Fund</a> (South Dakota)</p>
+<p>$45 million for the Mountain | Plains Regional Native CDFI Coalition</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Georgia-Tech-Research-Corporations.htm">Georgia Tech Research Corporations</a> (Georgia)</p>
+<p>$65 million for GA-AIM</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Greater-New-Orleans-Development-Foundation.htm">Greater New Orleans Development Foundation</a> (Louisiana)</p>
+<p>$50 million for H2theFuture</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Greater-St-Louis.htm">Greater St. Louis, Inc.</a> (Missouri)</p>
+<p>$25 million for the St. Louis Tech Triangle</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Indian-Nations-Council-of-Governments.htm">Indian Nations Council of Governments</a> (Oklahoma)</p>
+<p>$39 million for the Tulsa Regional Advanced Mobility Cluster</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Invest-Nebraska-Corporation.htm">Invest Nebraska Corporation</a> (Nebraska)</p>
+<p>$25 million for the Heartland Robotics Cluster</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/North-Carolina-Biotechnology-Center.htm">North Carolina Biotechnology Center</a> (North Carolina)</p>
+<p>$25 million for Accelerate NC – Life Sciences Manufacturing</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Oklahoma-City-Economic-Development-Foundation.htm">Oklahoma City Economic Development Foundation</a> (Oklahoma)</p>
+<p>$35 million for the Oklahoma Biotech Innovation Cluster Initiative</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Osceola-County-Board-of-County-Commissioners.htm">Osceola County Board of County Commissioners</a> (Florida)</p>
+<p>$50.8 million for the Building Central Florida’s Semiconductor Cluster for Broad-Based Prosperity</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Port-of-Portland.htm">Port of Portland</a> (Oregon)      </p>
+<p>$41.4 million for the Oregon Mass Timber Coalition</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Southeast-Conference.htm">Southeast Conference</a> (Alaska)</p>
+<p>$49 million for the Alaska Mariculture Cluster</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Southwestern-Pennsylvania-New-Economy-Collaborative.htm">Southwestern Pennsylvania New Economy Collaborative</a> (Pennsylvania)</p>
+<p>$62.7 million for the Southwestern Pennsylvania New Economy Collaborative </p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/The-Research-Foundation-for-the-State-University-of-New-York.htm">The State University of New York (SUNY) at Binghamton</a> (New York)  </p>
+<p>$63.7 million for New Energy New York</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/University-of-Texas-at-El-Paso.htm">The University of Texas at El Paso</a> (Texas)</p>
+<p>$40 million for the West Texas A&amp;D Cluster</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Virginia-Biotechnology-Research-Partnership-Authority.htm">Virginia Biotechnology Research Partnership Authority</a> (Virginia)</p>
+<p>$52.9 million for the VA BIO Advanced Pharma Manufacturing (APM) and R&amp;D</p>
+<p><a href="https://eda.gov/arpa/build-back-better/finalists/Wichita-State-University.htm">Wichita State University</a> (Kansas)</p>
+<p>$51.4 million for the South Kansas Coalition</p>
+<p>The 21 BBBRC winners were chosen from 60 EDA-designated finalists that each received approximately $500,000 in funding and technical assistance to continue developing their cluster strategies. The funding for each coalition listed above is approximate, with awards to be signed later in September. Those 60 finalists were chosen from a Phase 1 applicant pool of 529 applications, which exemplifies the tremendous demand for transformational regional economic development approaches. EDA will continue to support all 60 finalists with the creation of a Community of Practice that will provide technical support, foster connectedness with peer regions, and build capacity.</p>
+<p>The Build Back Better Regional Challenge is one of EDA’s many programs aimed at building strong regional economies and supporting community-led economic development. EDA was allocated $3 billion in supplemental funding under the American Rescue Plan to assist communities nationwide in their efforts to build back better by accelerating economic recovery from the coronavirus pandemic and building local economies that will be resilient to future economic shocks. As a part of this funding, EDA allocated $300 million through a Coal Communities Commitment to support coal communities in pandemic recovery and help them create new jobs and opportunities, including through the creation or expansion of a new industry sector. Specifically, EDA has dedicated $100 million of its <a href="https://eda.gov/arpa/build-back-better/">Build Back Better Regional Challenge</a> funds and $200 million of its <a href="https://eda.gov/arpa/economic-adjustment-assistance/">Economic Adjustment Assistance</a> funds to directly support coal communities. Grantees for EDA’s full suite of American Rescue Plan programs will be awarded on a rolling basis through September 30, 2022. For more information, visit <a href="https://www.eda.gov/ARPA/">https://www.eda.gov/ARPA/</a>.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

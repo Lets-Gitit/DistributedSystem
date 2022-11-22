@@ -1,0 +1,9 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>The Supreme Court’s extreme decision to overturn <em>Roe v. Wade </em>put women’s health and lives at risk. Tonight, the American people had something to say about it. Voters in Kansas turned out in record numbers to reject extreme efforts to amend the state constitution to take away a woman’s right to choose and open the door for a state-wide ban. This vote makes clear what we know: the majority of Americans agree that women should have access to abortion and should have the right to make their own health care decisions.<br/> <br/>Congress should listen to the will of the American people and restore the protections of <em>Roe</em> as federal law. While that is the only way to secure a woman’s right to choose, my Administration will continue to take meaningful action to protect women’s access to reproductive health care. We will continue to act where we can to protect women’s reproductive rights and access to care.  And, the American people must continue to use their voices to protect the right to women’s health care, including abortion.</p>
+<p class="has-text-align-center">###</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

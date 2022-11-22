@@ -1,0 +1,10 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>     Shailen P. Bhatt, of Michigan, to be Administrator of the Federal Highway Administration, vice Nicole R. Nason.</p>
+<p>     Jeffrey Matthew Marootian, of the District of Columbia, to be an Assistant Secretary of Energy (Energy Efficiency and Renewable Energy), vice Daniel Simmons.</p>
+<p>     Stephen A. Owens, of Arizona, to be Chairperson of the Chemical Safety and Hazard Investigation Board for a term of five years, vice Katherine Andrea Lemos, resigning.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

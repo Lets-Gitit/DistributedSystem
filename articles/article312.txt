@@ -1,0 +1,11 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Travis Hill, of Maryland, to be a Member of the Board of Directors of the Federal Deposit Insurance Corporation for a term of six years, vice Jeremiah O’Hear Norton, term expired.</p>
+<p>     Travis Hill, of Maryland, to be Vice Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation, vice Thomas Hoenig.</p>
+<p>     Jonathan McKernan, of Tennessee, to be a Member of the Board of Directors of the Federal Deposit Insurance Corporation for the remainder of the term expiring May 31, 2024, vice Jelena McWilliams, resigned.</p>
+<p>     Lynne M. Tracy, of Ohio, a Career Member of the Senior Foreign Service, Class of Career Minister, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Russian Federation.</p>
+<p class="has-text-align-center"># # #</p>
+</div>
+</div>
+</section>]

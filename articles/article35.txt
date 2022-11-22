@@ -1,0 +1,14 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>     Craig J. Anderson, of Montana, to be United States Marshal for the District of Montana for the term of four years, vice Rodney D. Ostermiller, retired.</p>
+<p>     Michael D. Black, of Ohio, to be United States Marshal for the Southern District of Ohio for the term of four years, vice Peter C. Tobin.</p>
+<p>     Scott Winston Colom, of Mississippi, to be United States District Judge for the Northern District of Mississippi, vice Michael P. Mills, retired.</p>
+<p>     Stephen K. Eberle, of Pennsylvania, to be United States Marshal for the Western District of Pennsylvania for the term of four years, vice Michael D. Baughman.</p>
+<p>     Justin L. Martinez, of Utah, to be United States Marshal for the District of Utah for the term of four years, vice Matthew D. Harris, resigned.</p>
+<p>     Nickolas Guertin, of Virginia, to be an Assistant Secretary of the Navy, vice James F. Geurts.</p>
+<p>     Roger F. Nyhus, of Washington, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to Barbados, and to serve concurrently and without additional compensation as Ambassador Extraordinary and Plenipotentiary of the United States of America to the Federation of Saint Kitts and Nevis, Saint Lucia, Antigua and Barbuda, the Commonwealth of Dominica, Grenada, and Saint Vincent and the Grenadines.</p>
+<p class="has-text-align-center"># # #</p>
+</div>
+</div>
+</section>]

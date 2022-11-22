@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>The United States strongly condemns yesterday’s tragic terrorist attack in Mogadishu that killed an estimated 100 people and wounded approximately 300 more, and in particular its heinous targeting of the Somali Ministry of Education and first responders.  We send our deepest condolences to the Somali people and to all those who lost loved ones or were injured by these unconscionable attacks against innocent civilians.  The United States remains committed to supporting the Federal Government of Somalia in its fight to prevent such callous terrorist acts.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

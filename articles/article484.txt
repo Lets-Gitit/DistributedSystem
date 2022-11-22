@@ -1,0 +1,12 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>We are continuing to see encouraging economic developments, including strong job growth and lower energy prices.</p>
+<p>First, consumer price data showed headline inflation was 0.0% last month. This moderation compared to the month before was driven by declining gas prices, and lower prices for clothes, air fares, electronics, used cars, and more.</p>
+<p>Second, new data today shows declining prices that producers pay to make the goods and services that consumers and businesses buy, such as gasoline, jet fuel, iron and steel.</p>
+<p>And third, the average national price for a gallon of gasoline fell below $4 today. This is providing much needed breathing room for families across the country.</p>
+<p>While the news from this week is encouraging, we have more work to do to bring inflation down, without giving up the substantial economic and labor market gains of the past year. Congress should pass the Inflation Reduction Act as soon as possible, which will help our economy address some of its most important near-term and long-term challenges.  </p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

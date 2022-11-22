@@ -1,0 +1,9 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATION SENT TO THE SENATE:<br/><br/>     Ronald T. Keohane, of New York, to be an Assistant Secretary of Defense, vice James N. Stewart.</p>
+<p>WITHDRAWAL SENT TO THE SENATE:<br/><br/>     Brenda Sue Fulton, of New Jersey, to be an Assistant Secretary of Defense, vice James N. Stewart, which was sent to the Senate on January 4, 2022.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

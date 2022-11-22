@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Today, the Vice President tested negative for COVID-19 on a rapid antigen test. The Vice President will return to work, in person, tomorrow. Following CDC guidelines, she will wear a well-fitting mask while around others through the ten-day period.<br/></p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

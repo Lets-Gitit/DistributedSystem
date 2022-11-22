@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Today, our hearts are with India. Jill and I send our deepest condolences to the families who lost loved ones during the bridge collapse, and join the people of Gujarat in mourning the loss of too many lives cut short. The United States and India are indispensable partners, with deep bonds between our citizens. In this difficult hour, we will continue to stand with and support the Indian people.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

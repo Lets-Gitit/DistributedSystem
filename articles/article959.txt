@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. met today with Prime Minister Magdalena Andersson of Sweden and President Sauli Niinistö of Finland and warmly welcomed their applications for NATO membership, which will strengthen our collective security.  At this historic moment for both Finland and Sweden, the President underscored his commitment to support both countries as they seek formal NATO accession, including by working with NATO Allies and Congress to welcome them into the Alliance as quickly as possible.  The leaders also discussed their ongoing cooperation on shared global challenges, and their commitment to continued strong support for Ukraine.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,9 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Last week, the White House Gender Policy Council, the White House Domestic Policy Council, and the White House Office of Public Engagement convened a meeting with national health policy and advocacy groups on protecting access to health care, including access to abortion.  Participants discussed the health care crisis that the nation will face if <em>Roe v. Wade</em> is overturned and underscored that all individuals have a right to make decisions about their health and well-being.  They also discussed access to reproductive health care as an issue of health equity and economic security and highlighted the disproportionate impact that restrictions have on underserved communities. Administration officials affirmed the President’s strong commitment to reproductive rights and committed to continued engagement and partnership with these groups.Participants included representatives from:</p>
+<ul><li>Center for American Progress </li><li>Community Catalyst </li><li>Families USA </li><li>Protect Our Care </li><li>Young Invincibles</li></ul>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

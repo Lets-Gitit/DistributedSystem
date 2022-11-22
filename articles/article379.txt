@@ -1,0 +1,14 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. today announced the designation of a Presidential Delegation to attend the Inauguration of His Excellency William Samoei Arap Ruto on September 13, 2022, in Nairobi, Kenya.</p>
+<p><a></a><a></a>The Honorable Katherine Tai, United States Trade Representative, will lead the delegation.</p>
+<p><strong><u>Members of the Presidential Delegation:</u></strong></p>
+<p>The Honorable Meg Whitman, United States Ambassador to the Republic of Kenya</p>
+<p>The Honorable Colin Allred, United States Representative (D), Texas</p>
+<p>The Honorable Mary Catherine Phee, Assistant Secretary of State for the Bureau of African Affairs, U.S. Department of State</p>
+<p>Dr. Monde Muyangwa, Assistant Administrator for the Bureau for Africa, U.S. Agency for International Development</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

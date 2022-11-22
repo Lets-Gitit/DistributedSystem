@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. today announced the designation of a Presidential Delegation to Bogotá, Colombia to attend the Inauguration of His Excellency Gustavo Francisco Petro Urrego as President of the Republic of Colombia on August 7, 2022.<br/> <br/>The Honorable Samantha Power, Administrator for the United States Agency for International Development, will lead the delegation.<br/> <br/><span style="text-decoration: underline"><strong>Members of the Presidential Delegation:</strong><br/></span> <br/>The Honorable Gregory Meeks, Chairman of the House Foreign Affairs Committee<br/> <br/>Mr. Francisco L. Palmieri, Chargé d’Affaires, a.i., United States Embassy in Bogotá, Colombia.<br/> <br/>Ms. Desirée Cormier Smith, Special Representative for Racial Equity and Justice, U.S. Department of State<br/> <br/>The Honorable Juan Gonzalez, Special Assistant to the President and Senior Director for Western Hemisphere Affairs, National Security Council</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

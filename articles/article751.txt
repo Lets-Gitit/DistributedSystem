@@ -1,0 +1,16 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. today announced the designation of a Presidential Delegation to attend the Inauguration of His Excellency Ferdinand Romualdez Marcos, Jr. on June 30, 2022, in Manila, Republic of Philippines. </p>
+<p>Mr. Douglas Emhoff, Second Gentleman of the United States, will lead the delegation. </p>
+<p>Members of the Presidential Delegation:</p>
+<p>Ms. Heather Variava, Chargé d’Affaires, ad interim, U.S. Embassy Manila</p>
+<p>The Honorable Bobby Scott, Chairman of the Committee on Education and Labor, United States Representative (D), Virginia</p>
+<p>The Honorable Nani A. Coloretti, Deputy Director, Office of Management and Budget</p>
+<p>Admiral James “Sandy” A. Winnefeld, Jr. (Ret.), Former Vice Chairman of the Joint Chiefs of Staff </p>
+<p>The Honorable Edgard D. Kagan, Special Assistant to the President and Senior Director for East Asia and Oceania, National Security Council </p>
+<p>The Honorable Chantale Y. Wong, U.S. Director of the Asian Development Bank</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

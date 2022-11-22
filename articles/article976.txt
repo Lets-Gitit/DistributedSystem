@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Biden spoke today with President Guillermo Lasso of the Republic of Ecuador to discuss their vision for the Americas ahead of the Summit of the Americas and the importance of the U.S.-Ecuador relationship.  They discussed strengthening economic, security, and migration cooperation.  President Biden and President Lasso also discussed COVID-19 pandemic response and recovery and supporting regional priorities.  The leaders committed to upholding democratic values and advancing the Summit of the Americas objectives.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

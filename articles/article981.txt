@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>On Thursday, President Biden will welcome Prime Minister Magdalena Andersson of Sweden and President Sauli Niinistö of Finland to the White House.  The leaders will discuss Finland’s and Sweden’s NATO applications and European security, as well as strengthening our close partnerships across a range of global issues and support for Ukraine.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

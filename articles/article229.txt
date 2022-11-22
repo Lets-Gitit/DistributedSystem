@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>The United States was horrified by the tragic shooting at a day care center in Nong Bua Lam Phu Province, Thailand. The images are heartbreaking and our deepest condolences go out to the families who lost loved ones. We condemn this act of violence and stand ready to assist our long-standing ally Thailand in whatever they need.<br/></p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

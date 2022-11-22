@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>I condemn the attack on Congressman Zeldin in the strongest terms. As I’ve said before, violence has absolutely no place in our society or our politics. I am especially grateful for the courage of those who immediately intervened, and that he is unharmed and was able to continue his speech. I also want to thank the law enforcement officers who quickly took action and are investigating this attack that defies our fundamental democratic values.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

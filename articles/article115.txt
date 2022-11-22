@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>I send my congratulations to Luiz Inácio Lula da Silva on his election to be the next president of Brazil following free, fair, and credible elections. I look forward to working together to continue the cooperation between our two countries in the months and years ahead.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. today announced the designation of a Presidential Delegation to the Kingdom of Lesotho to attend the Inauguration Ceremonies of The Right Honorable Ntsokoane Samuel Matekane, Prime Minister of the Kingdom of Lesotho, on October 28, 2022 in Maseru.<br/> <br/>The Honorable Alice P. Albright, Chief Executive Officer of the Millennium Challenge Corporation, will lead the delegation.<br/> <br/><strong>Members of the Presidential Delegation:</strong><br/> <br/>The Honorable Maria Brewer, U.S. Ambassador to the Kingdom of Lesotho<br/> <br/>The Honorable Loyce Pace, Assistant Secretary for Global Affairs, U.S. Department of Health and Human Services<br/> <br/>The Honorable Paula Garcia Tufro, Special Assistant to the President and Senior Director for Development, Global Health, and Humanitarian Response, National Security Council</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

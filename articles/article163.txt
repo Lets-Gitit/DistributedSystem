@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>The United States and the United Kingdom are strong Allies and enduring friends — and that fact will never change. I thank Prime Minister Liz Truss for her partnership on a range of issues including holding Russia accountable for its war against Ukraine. We will continue our close cooperation with the U.K. government as we work together to meet the global challenges our nations face.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>I congratulate Giorgia Meloni on becoming the new Prime Minister of Italy. Italy is a vital NATO Ally and close partner as our nations together address shared global challenges. As leaders in the G7, I look forward to continuing to advance our support for Ukraine, hold Russia accountable for its aggression, ensure respect for human rights and democratic values, and build sustainable economic growth.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,17 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Randy W. Berry, of Colorado, a Career Member of the Senior Foreign Service, Class of Career Minister, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Namibia.</p>
+<p>     Anjali Chaturvedi, of Maryland, to be General Counsel, Department of Veterans Affairs, vice Richard A. Sauber.</p>
+<p>     Robert William Forden, of California, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Kingdom of Cambodia.</p>
+<p>     Thomas E. Harvey, of Florida, to be a Member of the Asset and Infrastructure Review Commission.  (New Position)</p>
+<p>     Moshe Z. Marvit, of Pennsylvania, to be a Member of the Federal Mine Safety and Health Review Commission for a term expiring August 30, 2028, vice Arthur R. Traynor III, term expiring.</p>
+<p>     Arati Prabhakar, of California, to be Director of the Office of Science and Technology Policy, vice Eric S. Lander, resigned.</p>
+<p>     Robert E. Primus, of New Jersey, to be a Member of the Surface Transportation Board for a term expiring December 31, 2027.   (Reappointment)</p>
+<p>     Rolfe Michael Schiffer, of New York, to be an Assistant Administrator of the United States Agency for International Development, vice Jonathan Nicholas Stivers.</p>
+<p>    Lucy Tamlyn, of Rhode Island, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Democratic Republic of the Congo.</p>
+<p>   Pamela M. Tremont, of Virginia, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Zimbabwe.</p>
+</div>
+</div>
+</section>]

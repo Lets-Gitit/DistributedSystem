@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Today’s passage of the Commission to Study the Potential Creation of a National Museum of Asian Pacific American History and Culture Act, is a moment of great joy for our community and a wonderful addition to our celebration of Asian American, Native Hawaiian and Pacific Islander (AA and NHPI) Heritage Month. President Biden has made clear that the diversity of cultures within the AA and NHPI community has strengthened the fabric of our nation and today we are one step closer to creating a physical place and a forum for AA and NHPI’s to see themselves recognized as part of the American story. We thank leaders in the House and Senate for getting this bill done, and the President looks forward to signing it into law. </p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]
