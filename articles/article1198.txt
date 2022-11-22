@@ -1,0 +1,14 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Robin Meredith Cohn Hutcheson, of Utah, to be Administrator of the Federal Motor Carrier Safety Administration, vice Raymond Martinez.</p>
+<p>     Jaime E. Lizárraga, of Virginia, to be a Member of the Securities and Exchange Commission for a term expiring June 5, 2027, vice Allison Herren Lee, term expiring.</p>
+<p>     Vincent Garfield Logan, of New York, to be a Member of the Farm Credit Administration Board, Farm Credit Administration, for a term expiring May 21, 2026, vice Dallas P. Tonsager, term expired.</p>
+<p>     Mark Toshiro Uyeda, of California, to be a Member of the Securities and Exchange Commission for the remainder of the term expiring June 5, 2023, vice Elad L. Roisman, resigned.</p>
+<p>WITHDRAWALS SENT TO THE SENATE:</p>
+<p>     Carla Ravi Koppell, of New York, to be an Assistant Administrator of the United States Agency for International Development, vice Michelle A. Bekkering, which was sent to the Senate on September 21, 2021.</p>
+<p>     David Weil, of Massachusetts, to be Administrator of the Wage and Hour Division, Department of Labor, vice Cheryl Marie Stanton, which was sent to the Senate on January 4, 2022.</p>
+</div>
+</div>
+</section>]

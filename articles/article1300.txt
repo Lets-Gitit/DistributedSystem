@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. spoke today with President Emmanuel Macron of France, Chancellor Olaf Scholz of Germany, Prime Minister Mario Draghi of Italy, and Prime Minister Boris Johnson of the United Kingdom.  The leaders discussed their serious concerns about Russia’s brutal tactics in Ukraine, including its attacks on civilians. They underscored their continued support for Ukraine, including by providing security assistance to the brave Ukrainians who are defending their country from Russian aggression, and humanitarian assistance to the millions of Ukrainians who have fled the violence. The leaders also reviewed recent diplomatic efforts in support of Ukraine’s effort to reach a ceasefire.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

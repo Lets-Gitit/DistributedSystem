@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. spoke today with President Emmanuel Macron of France to discuss Russia’s war against Ukraine. They reviewed recent diplomatic engagements and underscored their commitment to hold Russia accountable for its actions and to support the government and people of Ukraine.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,19 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     William Carl Blake, of Virginia, to be a Member of the Asset and Infrastructure Review Commission.  (New Position)</p>
+<p>     Michael Blecker, of California, to be a Member of the Asset and Infrastructure Review Commission.  (New Position)</p>
+<p>     Shereef M. Elnahal, of New Jersey, to be Under Secretary for Health of the Department of Veterans Affairs, vice David J. Shulkin.</p>
+<p>     Christina Orzada Hill, of Georgia, to be a Member of the Asset and Infrastructure Review Commission.  (New Position)</p>
+<p>     Joyce M. Johnson, of Maryland, to be a Member of the Asset and Infrastructure Review Commission.  (New Position)</p>
+<p>     Rita M. Landgraf, of Delaware, to be Assistant Secretary for Aging, Department of Health and Human Services, vice Lance Allen Robertson.</p>
+<p>     Lucretia Maria McClenney, of Virginia, to be a Member of the Asset and Infrastructure Review Commission.  (New Position)</p>
+<p>     Patrick J. Murphy, of Pennsylvania, to be a Member of the Asset and Infrastructure Review Commission.  (New Position)</p>
+<p>     Jose R. Ramos, of Texas, to be a Member of the Asset and Infrastructure Review Commission.  (New Position)</p>
+<p>     Roselyn Tso, of Oregon, to be Director of the Indian Health Service, Department of Health and Human Services, for the term of four years, vice Michael D. Weahkee.</p>
+<p>     Jonathan Woodson, of Massachusetts, to be a Member of the Asset and Infrastructure Review Commission.  (New Position)</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

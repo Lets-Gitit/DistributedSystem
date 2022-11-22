@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Today, the Vice President spoke with International Brotherhood of Electrical Workers’ (IBEW) locals across the country to discuss the Biden-Harris Administration’s commitment to workers, and to encourage collaboration as we implement the historic, Bipartisan Infrastructure Law which will create good-paying, union jobs across the country. She also talked about her memorable visits to IBEW halls, facilities, and programs through the years, including as Vice President, most recently during a trip to North Carolina.<br/> <br/>The Vice President thanked IBEW President Lonnie Stephenson for his leadership, and said she looks forward to their continued work together.  <strong>​</strong><br/> </p>
+<p class="has-text-align-center"><strong>###</strong></p>
+</div>
+</div>
+</section>]

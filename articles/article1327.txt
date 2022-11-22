@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Today, President Joseph R. Biden, Jr. declared that a major disaster exists in the State of Maine and ordered Federal assistance to supplement State, tribal, and local recovery efforts in the areas affected by a severe storm and flooding from October 30 to October 31, 2021.</p>
+<p>Federal funding is available to State, tribal, eligible local governments and certain private nonprofit organizations on a cost-sharing basis for emergency work and the repair or replacement of facilities damaged by the severe storm and flooding in the counties of Knox, Waldo, and York.</p>
+<p>Federal funding is also available on a cost-sharing basis for hazard mitigation measures statewide.</p>
+<p>Deanne Criswell, Administrator, Federal Emergency Management Agency (FEMA), Department of Homeland Security, named William F. Roy as the Federal Coordinating Officer for Federal recovery operations in the affected areas.  <strong></strong></p>
+<p>Additional designations may be made at a later date if requested by the State and warranted by the results of further damage assessments.</p>
+<p>FOR FURTHER INFORMATION MEDIA SHOULD CONTACT THE FEMA NEWS DESK AT (202) 646-3272 OR <a href="mailto:FEMA-NEWS-DESK@DHS.GOV">FEMA-NEWS-DESK@FEMA.DHS.GOV</a>.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

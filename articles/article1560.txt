@@ -1,0 +1,9 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Today, the Task Force on Worker Organizing and Empowerment – led by Vice President Harris as Chair and Labor Secretary Walsh as Vice-Chair – <a href="https://www.whitehouse.gov/wp-content/uploads/2022/02/White-House-Task-Force-on-Worker-Organizing-and-Empowerment-Report.pdf">released publicly the report it delivered to President Joe Biden</a> that includes nearly 70 recommendations to promote worker organizing and collective bargaining for federal employees, and for workers employed by public and private-sector employers.</p>
+<p>Additionally, the recommendations include ways to increase private sector workers’ access to information about their existing right to join and/or organize a union, and the legally-defined process of how to do so.</p>
+<p>Read the entire report<a href="https://www.whitehouse.gov/wp-content/uploads/2022/02/White-House-Task-Force-on-Worker-Organizing-and-Empowerment-Report.pdf"> here.</a></p>
+</div>
+</div>
+</section>]

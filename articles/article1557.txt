@@ -1,0 +1,12 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Alice Hill, of the District of Columbia, to be Deputy Administrator for Resilience, Federal Emergency Management Agency, Department of Homeland Security, vice Daniel J. Kaniewski.</p>
+<p>     Mary Green Swig, of California, to be a Member of the Board of Directors of the United States Institute of Peace for a term of four years, vice John A. Lancaster, term expired.</p>
+<p>WITHDRAWAL SENT TO THE SENATE:</p>
+<p>     Mary Green Swig, of California, to be a Member of the Board of Directors of the United States Institute of Peace for a term of four years, vice Stephen D. Krasner, term expired, which was sent to the Senate on February 3, 2022.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

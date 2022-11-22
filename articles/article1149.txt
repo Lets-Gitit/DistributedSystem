@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Today, Jennifer Klein, White House Gender Policy Council Director, and Julie Chavez Rodriguez, White House Intergovernmental Affairs Director, hosted a roundtable discussion with state legislators from Missouri, Nebraska, and Oklahoma to discuss their efforts to protect access to reproductive health care, in light of a series of unconstitutional attacks on women’s reproductive rights.</p>
+<p>During the meeting, state legislators reported on abortion restrictions in their states and shared steps they have taken to oppose new legislative proposals. Leaders in Oklahoma described the potential impact of recently-passed S 612, which makes providing an abortion a criminal offense in the state, with narrow exceptions. Nebraska lawmakers shared their recent success in fighting a trigger ban, which failed on the legislature floor earlier this month and would have banned abortion in the state if <em>Roe</em> were overturned. State legislators from Missouri described their efforts to oppose a number of pending restrictions. All participants underscored the devastating impact these bills would have on access to critical reproductive health care services, especially for low-income populations and those living in rural communities.</p>
+<p>Senior Administration officials underscored the Administration’s support for reproductive rights and determination to protect access to health care. They thanked the legislators for their leadership in opposing and raising awareness about these dangerous bills, and made it clear that the Administration stands with them in the fight to protect reproductive health care.</p>
+<p>The legislation discussed today is just a sample of the onerous and unconstitutional restrictions that have passed or are pending in states across the nation. In light of this wholesale attack on reproductive rights, Administration officials reiterated the President’s support for the constitutional right affirmed in <em>Roe v. Wade</em> and his commitment to protect women’s access to critical reproductive health care.</p>
+<p>State legislators participated in today’s meeting included:</p>
+<ul><li>Missouri Senator Jill Schupp</li><li>Missouri Representative Emily Weber</li><li>Nebraska Senator Machaela Cavanaugh</li><li>Nebraska Senator Adam Morfeld</li><li>Oklahoma House Minority Leader Emily Virgin</li><li>Oklahoma Representative Forrest Bennett</li><li>Oklahoma Representative Ajay Pittman</li></ul>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

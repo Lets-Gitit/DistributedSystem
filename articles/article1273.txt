@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>On Tuesday March 29<sup>th</sup>, President Biden will welcome Prime Minister Lee Hsien Loong of Singapore to the White House. The two Leaders will reaffirm the importance of the U.S.-Singapore Strategic Partnership. The President will review efforts to ensure a free and open Indo-Pacific and discuss Russia’s unjustified war against Ukraine with the Prime Minister. The President also looks forward to deepening cooperation on a range of shared interests, including upholding freedom of the seas, advancing supply chain resiliency, addressing the crisis in Burma, and fighting climate change.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

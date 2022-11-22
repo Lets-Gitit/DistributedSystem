@@ -1,0 +1,7 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>National Security Advisor Jake Sullivan met today with Chinese Communist Party Politburo Member and Director of the Office of the Foreign Affairs Commission Yang Jiechi in Rome, Italy. Their meeting followed up on the November 15, 2021 virtual meeting between President Biden and President Xi. Mr. Sullivan raised a range of issues in U.S.-China relations, with substantial discussion of Russia’s war against Ukraine. They also underscored the importance of maintaining open lines of communication between the United States and China.</p>
+</div>
+</div>
+</section>]

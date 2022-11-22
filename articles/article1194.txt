@@ -1,0 +1,9 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>The Office of the Intellectual Property Enforcement Coordinator (IPEC) has issued its <a href="https://www.whitehouse.gov/wp-content/uploads/2022/04/FY21-IPEC-Annual-Report-Final.pdf">Annual Intellectual Property Report to Congress</a>, which brings together the combined and coordinated efforts of the White House, the Departments of Agriculture, Commerce, Defense, Health and Human Services, Homeland Security, State, and Treasury, the Office of the U.S. Trade Representative, and the U.S. Copyright Office. The report provides an overview of the intellectual property enforcement strategy and related efforts undertaken by departments and agencies during fiscal year 2021.</p>
+<p>To view the Annual Intellectual Property Report to Congress, visit: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/04/FY21-IPEC-Annual-Report-Final.pdf">https://www.whitehouse.gov/wp-content/uploads/2022/04/FY21-IPEC-Annual-Report-Final.pdf</a></p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

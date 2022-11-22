@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     William H. Duncan, of Texas, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of El Salvador.</p>
+<p>     Jay Curtis Shambaugh, of Maryland, to be an Under Secretary of the Treasury, vice Brent James McIntosh.</p>
+<p>     Denis Udall, of California, to be a Member of the Board of Trustees of the Morris K. Udall and Stewart L. Udall Foundation for a term expiring April 15, 2023, vice Camilla C. Feibelman, term expired.</p>
+<p>     Teresa Arrington Fox Udall, of Colorado, to be a Member of the Board of Trustees of the Morris K. Udall and Stewart L. Udall Foundation for a term expiring October 6, 2022, vice Anne J. Udall, term expired.</p>
+<p>     Lesslie Viguerie, of Virginia, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Kyrgyz Republic.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

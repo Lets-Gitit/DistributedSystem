@@ -1,0 +1,10 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>FOR IMMEDIATE RELEASE<br/>March 4, 2022</p>
+<p class="has-text-align-center"><strong>President Biden Announces Presidential Delegation to the United Arab Emirates to Attend the United States National Day at the Expo 2020 Dubai </strong></p>
+<p>President Joseph R. Biden, Jr. today announced the designation of a Presidential Delegation to the United Arab Emirates to attend the United States National Day at Expo 2020 Dubai on March 6, 2022.  <br/><br/>The Honorable Gina M. Raimondo, Secretary of Commerce, will lead the delegation.<br/><br/><strong><u>Members of the Presidential Delegation:</u></strong><br/><br/>Mr. Sean Murphy, Chargé d’Affaires ad interim, U.S. Embassy Abu Dhabi<br/><br/>The Honorable Roy Blunt, United States Senator (R), Missouri<br/><br/>Ms. Jennifer Hall Godfrey, Senior Official for Public Diplomacy and Public of Affairs, U.S. Department of State<br/><br/>The Honorable Maria Rosario Jackson, Ph.D., Chair of the National Endowment for the Arts<br/><br/>The Honorable Robert Clark, U.S. Commissioner General at Expo 2020 Dubai<br/><br/>Mr. Dilawar Syed, Special Representative for Commercial and Business Affairs, <br/>U.S. Department of State<br/><br/>The Honorable Barbara Leaf, Special Assistant to the President and Senior Director for the Middle East and North Africa, National Security Council<br/><br/>Ms. Meghan Gregonis, Consul General, U.S. Consulate Dubai</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

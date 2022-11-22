@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Today, President Joseph R. Biden, Jr. declared that a major disaster exists in the State of Iowa and ordered Federal assistance to supplement state, tribal, and local recovery efforts in the areas affected by severe storms, straight-line winds, and tornadoes on December 15, 2021.</p>
+<p>Federal funding is available to state, tribal, and eligible local governments and certain private nonprofit organizations on a cost-sharing basis for emergency work and the repair or replacement of facilities damaged by the severe storms, straight-line winds, and tornadoes in the counties of Appanoose, Audubon, Buena Vista, Calhoun, Cass, Cherokee, Davis, Emmet, Floyd, Franklin, Greene, Guthrie, Hamilton, Hancock, Howard, Humboldt, Mills, Mitchell, Palo Alto, Pocahontas, Sac, Van Buren, Webster, Worth, and Wright.</p>
+<p>Federal funding is also available on a cost-sharing basis for hazard mitigation measures statewide.</p>
+<p>Deanne Criswell, Administrator, Federal Emergency Management Agency (FEMA), Department of Homeland Security, named DuWayne Tewes as the Federal Coordinating Officer for Federal recovery operations in the affected areas.  <strong></strong></p>
+<p>Additional designations may be made at a later date if requested by the state and warranted by the results of further damage assessments.</p>
+<p>FOR FURTHER INFORMATION MEDIA SHOULD CONTACT THE FEMA NEWS DESK AT (202) 646-3272 OR <a href="mailto:FEMA-NEWS-DESK@DHS.GOV">FEMA-NEWS-DESK@FEMA.DHS.GOV</a>.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. will speak with President Xi Jinping of the People’s Republic of China (PRC) this Friday. This is part of our ongoing efforts to maintain open lines of communication between the United States and the PRC. The two Leaders will discuss managing the competition between our two countries as well as Russia’s war against Ukraine and other issues of mutual concern.<br/></p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

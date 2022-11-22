@@ -1,0 +1,14 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. today announced the designation of a Presidential Delegation to The Netherlands to attend the Fifth Invictus Games on April 16, 2022 in The Hague.</p>
+<p><a></a><a></a>The Honorable Pete Buttigieg, Secretary of Transportation, will lead the delegation. </p>
+<p><strong><u>Members of the Presidential Delegation:</u></strong></p>
+<p>Ms. Marja Verloop, Charge d’ Affaires a.i., U.S. Embassy The Hague</p>
+<p>The Honorable Tammy Duckworth, United States Senator (D-IL)</p>
+<p>The Honorable Donald M. Remy, Deputy Secretary of the Department of Veterans Affairs</p>
+<p>The Honorable Gina Ortiz Jones, Under Secretary of the Air Force</p>
+<p>The Honorable Rory M. Brosius, Special Assistant to the President and Executive Director of Joining Forces ###</p>
+</div>
+</div>
+</section>]

@@ -1,0 +1,9 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Naz Durakoğlu, of New Jersey, to be an Assistant Secretary of State (Legislative Affairs), vice Mary Elizabeth Taylor, resigned.</p>
+<p>Dean R. Thompson, of Maryland, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to Nepal.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

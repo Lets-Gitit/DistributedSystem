@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Earlier today, the Second Gentleman tested positive for COVID-19. Out of an abundance of caution, the Vice President will not participate in tonight’s event. The Vice President tested negative for COVID-19 today and will continue to test.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

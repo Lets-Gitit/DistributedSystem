@@ -1,0 +1,8 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. spoke today with President Emmanuel Macron of France.  They discussed President Macron’s recent meetings in Russia and Ukraine. They also talked about ongoing diplomatic and deterrence efforts, undertaken in close coordination with our Allies and partners, in response to Russia’s continued military build-up on Ukraine’s borders. </p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

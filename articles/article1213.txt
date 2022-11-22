@@ -1,0 +1,11 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Robert F. Godec, of Virginia, a Career Member of the Senior Foreign Service, Class of Career Minister, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Kingdom of Thailand.</p>
+<p>     Kalpana Kotagal, of Ohio, to be a Member of the Equal Employment Opportunity Commission for a term expiring July 1, 2027, vice Janet Dhillon, term expiring.</p>
+<p>     Vinay Vijay Singh, of Pennsylvania, to be Chief Financial Officer, Department of Housing and Urban Development, vice Irving Dennis.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

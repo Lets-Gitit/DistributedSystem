@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Sharon Beth Lewis, of Oregon, to be a Member of the Social Security Advisory Board for a term expiring September 30, 2022, vice Alan L. Cohen, term expired.</p>
+<p>       Sharon Beth Lewis, of Oregon, to be a Member of the Social Security Advisory Board for a term expiring September 30, 2028.   (Reappointment)</p>
+<p>     Patricia Hart Neuman, of the District of Columbia, to be a Member of the Board of Trustees of the Federal Hospital Insurance Trust Fund for a term of four years, vice Robert D. Reischauer, term expired.</p>
+<p>     Patricia Hart Neuman, of the District of Columbia, to be a Member of the Board of Trustees of the Federal Supplementary Medical Insurance Trust Fund for a term of four years, vice Robert D. Reischauer, term expired.</p>
+<p>     Patricia Hart Neuman, of the District of Columbia, to be a Member of the Board of Trustees of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund for a term of four years, vice Robert D. Reischauer, term expired.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

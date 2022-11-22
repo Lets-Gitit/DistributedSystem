@@ -1,0 +1,12 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>Dear Mr. Chairman:  (Dear Madam Chair:)</p>
+<p>In accordance with section 1264 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115-91), as amended, 50 U.S.C. 1549(a), I am transmitting the annual report on the legal and policy frameworks guiding the United States’ use of military force and related national security operations.</p>
+<p>I am enclosing a copy of the unclassified report, as well as its classified annex.</p>
+<p class="has-text-align-right">                             Sincerely,</p>
+<p class="has-text-align-right">                             JOSEPH R. BIDEN JR.</p>
+<p class="has-text-align-left">View the unclassified report <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/1264_Report.pdf" rel="noreferrer noopener" target="_blank">here</a>.</p>
+</div>
+</div>
+</section>]

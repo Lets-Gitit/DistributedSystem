@@ -1,0 +1,13 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>President Joseph R. Biden, Jr. today announced the designation of a Presidential Delegation to the Republic of Liberia to attend the Bicentennial Celebrations in Monrovia, Liberia on February 14, 2022.  This marks the arrival of the first Free Black Americans to Providence Island in 1822, which led to the establishment of the City of Monrovia, and in 1847, the Republic ofLiberia.</p>
+<p>The Honorable Dana Banks, Special Assistant to the President and Senior Director for Africa, National Security Council</p>
+<p><strong><u>Members of the Presidential Delegation:</u></strong></p>
+<p>The Honorable Michael A. McCarthy, United States Ambassador to the Republic of Liberia</p>
+<p>Mr. Lonnie G. Bunch III, Secretary of the Smithsonian Institution</p>
+<p>Rev. Dr. Teresa Jefferson-Snorton, Bishop of the Fifth Episcopal District of the Christian Methodist Episcopal Church, Chair of the Governing Board, National Council of Churches in the United States</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]

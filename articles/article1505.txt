@@ -1,0 +1,11 @@
+[<section class="body-content">
+<div class="container">
+<div class="row">
+<p>NOMINATIONS SENT TO THE SENATE:</p>
+<p>     Philip S. Goldberg, of the District of Columbia, a Career Member of the Senior Foreign Service, Class of Career Ambassador, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Korea.</p>
+<p>     Carrin F. Patman, of Texas, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Iceland.</p>
+<p>     Erik Kristopher Raven, of the District of Columbia, to be Under Secretary of the Navy, vice Thomas B. Modly.</p>
+<p class="has-text-align-center">###</p>
+</div>
+</div>
+</section>]
