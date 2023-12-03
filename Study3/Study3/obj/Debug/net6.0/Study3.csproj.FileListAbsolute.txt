@@ -1,0 +1,42 @@
+C:\Users\이찬영\source\repos\Study3\Study3\bin\Debug\net6.0\Study3.exe
+C:\Users\이찬영\source\repos\Study3\Study3\bin\Debug\net6.0\Study3.deps.json
+C:\Users\이찬영\source\repos\Study3\Study3\bin\Debug\net6.0\Study3.runtimeconfig.json
+C:\Users\이찬영\source\repos\Study3\Study3\bin\Debug\net6.0\Study3.dll
+C:\Users\이찬영\source\repos\Study3\Study3\bin\Debug\net6.0\Study3.pdb
+C:\Users\이찬영\source\repos\Study3\Study3\obj\Debug\net6.0\Study3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이찬영\source\repos\Study3\Study3\obj\Debug\net6.0\Study3.AssemblyInfoInputs.cache
+C:\Users\이찬영\source\repos\Study3\Study3\obj\Debug\net6.0\Study3.AssemblyInfo.cs
+C:\Users\이찬영\source\repos\Study3\Study3\obj\Debug\net6.0\Study3.csproj.CoreCompileInputs.cache
+C:\Users\이찬영\source\repos\Study3\Study3\obj\Debug\net6.0\Study3.dll
+C:\Users\이찬영\source\repos\Study3\Study3\obj\Debug\net6.0\refint\Study3.dll
+C:\Users\이찬영\source\repos\Study3\Study3\obj\Debug\net6.0\Study3.pdb
+C:\Users\이찬영\source\repos\Study3\Study3\obj\Debug\net6.0\Study3.genruntimeconfig.cache
+C:\Users\이찬영\source\repos\Study3\Study3\obj\Debug\net6.0\ref\Study3.dll
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\bin\Debug\net6.0\Study3.exe
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\bin\Debug\net6.0\Study3.deps.json
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\bin\Debug\net6.0\Study3.runtimeconfig.json
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\bin\Debug\net6.0\Study3.dll
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\bin\Debug\net6.0\Study3.pdb
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.AssemblyInfoInputs.cache
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.AssemblyInfo.cs
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.csproj.CoreCompileInputs.cache
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.dll
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\obj\Debug\net6.0\refint\Study3.dll
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.pdb
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.genruntimeconfig.cache
+C:\Users\이찬영\Desktop\유니티 3주차\Study3\Study3\obj\Debug\net6.0\ref\Study3.dll
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\bin\Debug\net6.0\Study3.exe
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\bin\Debug\net6.0\Study3.deps.json
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\bin\Debug\net6.0\Study3.runtimeconfig.json
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\bin\Debug\net6.0\Study3.dll
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\bin\Debug\net6.0\Study3.pdb
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.AssemblyInfoInputs.cache
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.AssemblyInfo.cs
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.csproj.CoreCompileInputs.cache
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.dll
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\obj\Debug\net6.0\refint\Study3.dll
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.pdb
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\obj\Debug\net6.0\Study3.genruntimeconfig.cache
+C:\Users\이찬영\Desktop\학교\3-1 이후 휴학중\유니티 스터디\유니티 3주차\Study3\Study3\obj\Debug\net6.0\ref\Study3.dll
